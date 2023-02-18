@@ -1,2 +1,2 @@
 # Mathematica
-The use of Wolfram programming language for various maths projects done at KTH
+This Github repo showcases various maths projects completed for university courses using the software Mathematica. From discrete maths to linear algebra, these projects demonstrate the application of Mathematica in solving mathematical problems and visualizing complex concepts. Each project includes detailed explanations, code, and visual aids for a comprehensive understanding of the topic at hand.
